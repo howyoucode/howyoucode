@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @howyougfx
+- 👀 I’m interested in app development, coding, and creating innovative solutions.
+- 🌱 I’m currently learning Python and exploring frameworks like Django and Odoo.
+- 💞️ I’m looking to collaborate on open-source projects and AI-powered applications.
+- 📫 How to reach me: You can reach me via (howyouofficial@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/how-you-8b7609327/).
+- 😄 Pronouns: He/Him
