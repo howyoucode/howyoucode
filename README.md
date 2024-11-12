@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m **@howyoucode**, and I’m driven by a passion for app development, coding, and creating cutting-edge solutions that make a difference.
+Hi, I’m **Ali Hassan**, and I’m driven by a passion for app development, coding, and creating cutting-edge solutions that make a difference.
 
 ---
 
