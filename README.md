@@ -21,4 +21,4 @@ I'm eager to collaborate on:
 
 ## Connect with Me
 - **Email**: Reach out at **howyouofficial@gmail.com**
-- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/how-you-8b7609327/)
+- **LinkedIn**: Connect with me on [LinkedIn]([https://www.linkedin.com/in/ali-hassan-8b7609327/])
