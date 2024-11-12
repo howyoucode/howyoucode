@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @howyougfx
-- 👀 I’m interested in app development, coding, and creating innovative solutions.
-- 🌱 I’m currently learning Python and exploring frameworks like Django and Odoo.
-- 💞️ I’m looking to collaborate on open-source projects and AI-powered applications.
-- 📫 How to reach me: You can reach me via (howyouofficial@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/how-you-8b7609327/).
-- 😄 Pronouns: He/Him
+# About Me
+
+Hi, I’m **@howyoucode**, and I’m driven by a passion for app development, coding, and creating cutting-edge solutions that make a difference.
+
+---
+
+
+## Interests
+- **App Development**: Crafting efficient and user-friendly applications.
+- **Coding**: Writing clean and effective code that solves real-world problems.
+- **Innovative Solutions**: Bringing creative ideas to life through technology.
+
+---
+
+## Collaboration
+I'm eager to collaborate on:
+- **Open-Source Projects**: Contributing to meaningful and impactful software.
+- **AI-Powered Applications**: Working on projects that leverage AI to transform the user experience.
+
+---
+
+## Connect with Me
+- **Email**: Reach out at **howyouofficial@gmail.com**
+- **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/how-you-8b7609327/)
