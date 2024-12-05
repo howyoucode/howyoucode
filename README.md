@@ -1,23 +1,11 @@
-# About Me
-
-Hi, I’m **Ali Hassan**, and I’m driven by a passion for app development, coding, and creating cutting-edge solutions that make a difference.
-
----
-
+## About Me
+Hi, I’m Ali Hassan, a beginner passionate about learning app development, coding, and exploring tech solutions.
 
 ## Interests
-- **App Development**: Crafting efficient and user-friendly applications.
-- **Coding**: Writing clean and effective code that solves real-world problems.
-- **Innovative Solutions**: Bringing creative ideas to life through technology.
-
----
-
-## Collaboration
-I'm eager to collaborate on:
-- **Open-Source Projects**: Contributing to meaningful and impactful software.
-- **AI-Powered Applications**: Working on projects that leverage AI to transform the user experience.
-
----
+Coding: Improving my skills in writing clean and useful code.
+AI Solutions: Understanding how AI can make life easier.
+Collaboration
+I’m open to working on beginner-friendly projects and learning from others.
 
 ## Connect with Me
 - **Email**: Reach out at **howyouofficial@gmail.com**
